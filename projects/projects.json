@@ -1,0 +1,76 @@
+[
+  
+  {
+    "name": "Sadakath Hubify",
+    "desc": "Sadakath Hubify is an AI powered Mobile App for My colleagues using Flutter/Firebase.",
+    "tech":"Technologies Used: ",
+    "use": "Flutter,Firebase,Dialogflow,Gemini API",
+    "image": "launch_logo1",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Q1GjxvCc39AbLOAAbfTAvVyrHqnVefS_/view?usp=sharing",
+      "code": "https://github.com/sudha2307/sadakath_hubify"
+    }
+  },
+  {
+    "name": "Chat Together",
+    "desc": "Chat Together is an Chat Application we can communicate each other through web.",
+    "tech":"Technologies Used: ",
+    "use": "React.Js,MongoDB,Node.Js,Express.Js",
+    "image": "chat (2)",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sudha2307/chat_together"
+    }
+  },
+  {
+    "name": "Hunger Relief",
+    "desc": "Hunger Relief is an Moile Application and it act as a common platform for food donors and food needers.",
+    "tech":"Technologies Used: ",
+    "use": "Flutter,Firebase",
+    "image": "logopond",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sudha2307/Hunger_relief"
+    }
+  },
+  {
+    "name": "SAC Academic Gateway",
+    "desc": "It's An Web Application Developed using python flask to display Attendance and Results details using Web Scraping ",
+    "tech":"Technologies Used: ",
+    "use": "Py flask,HTML/CSS/JS",
+    "image": "sac",
+    "category": "mern",
+    "links": {
+      "view": "https://sac-academic-gateway-1.onrender.com/",
+      "code": "https://github.com/sudha2307/Sac_academic_gateway"
+    }
+  },
+  {
+    "name": "Rexy",
+    "desc": "Rexy is an E-Commerce Platfrom and its contains features like cart,category wise products etc..",
+    "tech":"Technologies Used: ",
+    "use": "HTML/CSS,Bootstrap,JS",
+    "image": "rexy",
+    "category": "lamp",
+    "links": {
+      "view": "https://www.linkedin.com/posts/sudhakar-m23_react-ecommerce-webdevelopment-activity-7274377330905522177-ebAW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKpiJ4BJS1eYhJ1qNRv2jRrHkWGCjsgpGk",
+      "code": "https://github.com/sudha2307/E-commerce-clone-iNeuron"
+    }
+  },
+  {
+    "name": "Banking Application in Java",
+    "desc": "In these Project I developed a simple banking application using java(console Based)",
+    "tech":"Technologies Used: ",
+    "use": "Java",
+    "image": "bank",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/posts/sudhakar-m23_github-sudha2307ineuronbankingapplication-activity-7143905133746139136-PPKK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKpiJ4BJS1eYhJ1qNRv2jRrHkWGCjsgpGk",
+      "code": "https://github.com/sudha2307/iNeuron_bankingapplication"
+    }
+  }
+  
+  ]

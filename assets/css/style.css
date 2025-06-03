@@ -649,8 +649,11 @@ header .navbar ul li a:hover {
 
 .certification-content {
   background: #e5ecfb;
-  padding: 60px 0;
+  padding: 70px 0;
   text-align: center;
+  height:min-content;
+  
+
 }
 
 .certification-content .heading {
@@ -664,6 +667,7 @@ header .navbar ul li a:hover {
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   margin-bottom: 2rem;
+  padding-bottom: 90px;
 }
 
 .certifications {
@@ -722,14 +726,22 @@ header .navbar ul li a:hover {
 
 @media screen and (max-width: 600px) {
   .scroll-container {
-    animation-duration: 60s; /* Slower scroll on mobile */
+    animation-duration: 15s; /* Slower scroll on mobile */
   }
   .certification {
-    width: 160px;
-    height: 230px;
-    margin: 0 10px;
+    width: 300px;
+    height: 250px; /* Adjusted height */
+    margin: 20px 10px;
+  }
+  .certification img {
+    height: 220px; /* Increased size */
+    width: 200px;
+    object-fit:cover;
+    border-radius: 5px;
+    margin-bottom: 10px;
   }
 }
+
 
 /* work section starts */
 .work {
